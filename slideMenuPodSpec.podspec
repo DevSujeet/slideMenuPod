@@ -9,7 +9,7 @@ s.summary = "slideMenuPod let the user add a controller with a slide menu."
 s.requires_arc = true
 
 # 2
-s.version = "0.1.1"
+s.version = "0.1.2"
 
 # 3
 s.license = { :type => "MIT", :file => "LICENSE" }
@@ -22,7 +22,7 @@ s.author = { "Sujeet Kumar" => "1987.sujeetkumar@gmail.com" }
 
 
 # 5 - Replace this URL with your own Github page's URL (from the address bar)
- s.homepage = ""https://www.google.com""
+ s.homepage = "https://www.google.com"
 
 # For example,
 # s.homepage = "https://github.com/JRG-Developer/RWPickFlavor"
