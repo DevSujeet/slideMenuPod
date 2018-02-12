@@ -3,8 +3,9 @@ Pod::Spec.new do |s|
 # 1
 s.platform = :ios
 s.ios.deployment_target = '11.0'
-s.name = "slideMenuPod"
-s.summary = "slideMenuPod lets a user select an ice cream flavor."
+s.name = "slideMenuPodSpec"
+# s.name = "name of the pod spec file."
+s.summary = "slideMenuPod let the user add a controller with a slide menu."
 s.requires_arc = true
 
 # 2
@@ -21,7 +22,7 @@ s.author = { "Sujeet Kumar" => "1987.sujeetkumar@gmail.com" }
 
 
 # 5 - Replace this URL with your own Github page's URL (from the address bar)
-# s.homepage = "[Your RWPickFlavor Homepage URL Goes Here]"
+ s.homepage = ""https://www.google.com""
 
 # For example,
 # s.homepage = "https://github.com/JRG-Developer/RWPickFlavor"
